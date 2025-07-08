@@ -17,3 +17,4 @@ data = cur.execute(f"""
 """)
 print(data)
 con.commit()
+a=900+999
